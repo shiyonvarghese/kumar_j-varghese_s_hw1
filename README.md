@@ -12,7 +12,6 @@ Tag Line
 
 [My Fav Website](http;//www.amazon.ca)
 
-1[Fender Telecaster](images/tele.jpg)
 <!--Will this show up-->
 
 
