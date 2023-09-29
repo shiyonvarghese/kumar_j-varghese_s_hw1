@@ -1,20 +1,18 @@
-# Team Name
+
+# Team  Name
 Tag Line
 
-##  Team Member 2 Name
-***Jashan***
+## Team member name 1
+***jashan***
 
-**Hobies:** 
-**Likes:**
-**Fav MOvies:**
-1. The Avengers
-2. Hulk
+**Hobbies**
 
-[My Fav Website](http;//www.amazon.ca)
+**Likes**
 
-1[Fender Telecaster](images/tele.jpg)
-<!--Will this show up-->
+**Fav Movies** 
 
-
-
-test
+1 The Avengers
+2 Incredibile Hulk
+[My Fav Website](https://www.amazon.ca)
+![Fender Telecaster](images/tele.jpg)
+<!--will this show up?-->
