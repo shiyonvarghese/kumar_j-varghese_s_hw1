@@ -2,9 +2,13 @@
 Tag Line
 
 ## Team member name 1
+
 **Hobbies**
+
 **Likes**
+
 **Fav Movies** 
+
 1 The Avengers
 2 Incredibile Hulk
 [My Fav Website](https://www.amazon.ca)
