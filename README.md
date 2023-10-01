@@ -1,20 +1,22 @@
 
-# Team  Name
-Tag Line
+# The Falcons
 
-## Team member name 1
-***jashan***
 
-**Hobbies**
+## Team member: Jashan Kumar                                
+Introduction:
+Hi, my name is Jashan Kumar, Im from India,Age 20.
 
-**Likes**
+My leisure time activities include Sports and video games.
 
-HEAD
-<!--Will this show up-->
-**Fav Movies** 
+Not only that, i have a great interest in astronomy and technology.
 
-1 The Avengers
-2 Incredibile Hulk
-[My Fav Website](https://www.amazon.ca)
 
-<!--will this show up?-->
+## Hobbies
+
+1.Basketball
+
+<img src="images/Basketball.jpeg">
+
+2.Video gaming
+
+<img src="images/Gaming.jpg">
