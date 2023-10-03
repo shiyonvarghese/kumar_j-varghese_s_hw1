@@ -36,6 +36,7 @@ Also, i am  interested in content creation  and travelling
 ### Hobbies
 
 1.Sports
+
 <img src="images/IMG_0611.JPG">
 
 
